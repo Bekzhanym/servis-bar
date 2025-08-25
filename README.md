@@ -36,8 +36,8 @@
 ## ⚙️ Технологии
 
 - **Frontend**: Flutter (Dart)  
-- **Backend**: FastAPI / Firebase (на выбор)  
-- **База данных**: PostgreSQL / Firestore  
+- **Backend**: Firebase (на выбор)  
+- **База данных**: Firestore  
 - **Авторизация**: Firebase Auth / JWT  
 - **Push-уведомления**: Firebase Cloud Messaging  
 
