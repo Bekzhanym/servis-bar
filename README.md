@@ -29,7 +29,7 @@
 
 | Избранное | Уведомления | Профиль |
 |-----------|-------------|---------|
-| ![fav](docs/screens/favorites.png) | ![notif](screens/notifications.png) | ![profile](screens/profile.png) |
+| ![fav](screens/FAV.png) | ![notif](screens/notification.png) | ![profile](screens/profile.png) |
 
 ---
 
